@@ -42,7 +42,7 @@ Customer Preference Analysis:
 
 Analyze the relationship between the type of cuisine and the restaurant's rating.
 Identify the most popular cuisines among customers based on the number of votes.
-Determine if there are any specific cuisines that tend to receive higher ratings.
+Determine if there are any specific cuisines that tend to receive higher ratings...
 Data Visualization:
 
 Create visualizations to represent the distribution of ratings using different charts (histogram, bar plot, etc.).
