@@ -40,7 +40,7 @@ Split the dataset into training and testing sets and evaluate the model's perfor
 Experiment with different algorithms (e.g., linear regression, decision trees, random forest) and compare their performance.
 Customer Preference Analysis:
 
-Analyze the relationship between the type of cuisine and the restaurant's rating...
+Analyze the relationship between the type of cuisine and the restaurant's rating.
 Identify the most popular cuisines among customers based on the number of votes.
 Determine if there are any specific cuisines that tend to receive higher ratings.
 Data Visualization:
