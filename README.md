@@ -46,5 +46,5 @@ Determine if there are any specific cuisines that tend to receive higher ratings
 Data Visualization:
 
 Create visualizations to represent the distribution of ratings using different charts (histogram, bar plot, etc.).
-Compare the average ratings of different cuisines or cities using appropriate visualizations...
+Compare the average ratings of different cuisines or cities using appropriate visualizations.
 Visualize the relationship between various features and the target variable to gain insights.
