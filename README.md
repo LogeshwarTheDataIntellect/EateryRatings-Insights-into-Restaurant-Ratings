@@ -1,4 +1,4 @@
-# Restaurant-Analytics-Hub
+#EateryRatings: Insights into Restaurant Ratings
 
 # Cognifyz: Where Data Meets Intelligence
 
