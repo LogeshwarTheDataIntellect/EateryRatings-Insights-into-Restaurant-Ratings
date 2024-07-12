@@ -1,7 +1,4 @@
 # Restaurant-Analytics-Hub
-Certainly! Here's the README file content formatted in Markdown for your restaurant industry project:
-
----
 
 # Cognifyz: Where Data Meets Intelligence
 
