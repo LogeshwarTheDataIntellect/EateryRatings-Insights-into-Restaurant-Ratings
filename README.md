@@ -1,6 +1,8 @@
 #EateryRatings: Insights into Restaurant Ratings
 
-# Cognifyz: Where Data Meets Intelligence
+![image](https://github.com/user-attachments/assets/44c2ceb2-1f69-4eeb-b26b-9ed2639447b0)
+
+
 
 ## Overview
 Cognifyz is a data analysis project focused on the restaurant industry. It explores various aspects of restaurant data to uncover insights that optimize business strategies and enhance customer satisfaction.
