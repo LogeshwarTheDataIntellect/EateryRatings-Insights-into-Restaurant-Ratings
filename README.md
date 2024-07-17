@@ -60,5 +60,5 @@ Cognifyz is a data analysis project focused on the restaurant industry. It explo
 - **Feature Relationships:** Visualized relationships between various features and the target variable to derive insights.
 
 ## Conclusion
-This project demonstrates the application of data analytics techniques to uncover insights in the restaurant industry. By leveraging descriptive analysis, geospatial analysis, advanced modeling, and data visualization, it aims to optimize restaurant management strategies and enhance customer satisfaction...
+This project demonstrates the application of data analytics techniques to uncover insights in the restaurant industry. By leveraging descriptive analysis, geospatial analysis, advanced modeling, and data visualization, it aims to optimize restaurant management strategies and enhance customer satisfaction.
 
