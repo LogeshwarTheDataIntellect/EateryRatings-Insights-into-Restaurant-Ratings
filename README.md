@@ -1,4 +1,4 @@
-#EateryRatings: Insights into Restaurant Ratings
+#EateryRatings: Insights into Restaurant Ratings...
 
 ![image](https://github.com/user-attachments/assets/44c2ceb2-1f69-4eeb-b26b-9ed2639447b0)
 
