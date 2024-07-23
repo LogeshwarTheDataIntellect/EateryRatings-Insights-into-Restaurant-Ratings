@@ -5,7 +5,7 @@
 
 
 ## Overview
-Cognifyz is a data analysis project focused on the restaurant industry. It explores various aspects of restaurant data to uncover insights that optimize business strategies and enhance customer satisfaction.
+This is a data science project focused on the restaurant industry. It explores various aspects of restaurant data to uncover insights that optimize business strategies and enhance customer satisfaction.
 
 ## Project Structure
 
